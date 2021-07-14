@@ -1,0 +1,49 @@
+body{
+    top: 15%;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    background: #0000007a;
+  
+    font-family: 'Lato';
+    line-height: 1.5;
+    color: white;
+    text-align: justify;
+}
+main{
+    background: #0000007a;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Lato';
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.imagens{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: thin solid;
+    padding: 5px;
+}
+img{    
+    max-width:240px;
+    width: 100%;
+}
+
+.voltar{
+    text-align: center;
+}
+button{
+    margin: 1px;
+    border-radius: 10px;
+    width: 25%;
+    text-align: center;
+    font-size: 16px;
+    color:rgb(17, 16, 16);
+    background-color: #fff;
+}
+
